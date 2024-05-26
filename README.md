@@ -1,6 +1,11 @@
 ### Hi there 👋
 Whelcome to my profile ✌🏽
 
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=officialkhairi&color=blue&style=flat)" />
+  </a>
+</p>
 <!--
 **officialkhairi/officialkhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
