@@ -1,7 +1,7 @@
 ### Hi there 👋
 Whelcome to my profile ✌🏽
 
-<p align="center">
+<p>
   <a href="https://github.com/wervlad">
     <img src="https://komarev.com/ghpvc/?username=officialkhairi&color=blue&style=flat)" />
   </a>
